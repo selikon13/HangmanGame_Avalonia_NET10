@@ -48,9 +48,9 @@ dotnet run
 ## Screenshots
 Start of the game
 ![Game screenshot](screenshots/game1.png)
-Win game
-![Game screenshot](screenshots/game2.png)
 Loss game
+![Game screenshot](screenshots/game2.png)
+Win game
 ![Game screenshot](screenshots/game3.png)
 
 ## Technologies
