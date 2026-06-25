@@ -21,8 +21,8 @@ The player guesses a hidden word by pressing letters on the screen. Each wrong a
 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/selikon13/HangmanGame_Avalonia_NET10.git
+cd HangmanGame_Avalonia_NET10
 ```
 
 2. Restore dependencies
