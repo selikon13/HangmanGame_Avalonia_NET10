@@ -116,7 +116,7 @@ public class HangmanWindow : Window
         AddKeyboardRow("ABCDEFG");
         AddKeyboardRow("HIJKLMN");
         AddKeyboardRow("OPQRSTU");
-        AddKeyboardRow("VWXYX");
+        AddKeyboardRow("VWXYZ");
 
         restartButton.Content = "New game";
         restartButton.FontSize = 18;
