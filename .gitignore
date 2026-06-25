@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.idea/
+.vscode/
+
+*.sln.iml
+
+*.user
+*.suo
+
+*.log
+
+.DS_Store
